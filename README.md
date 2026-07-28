@@ -7,8 +7,7 @@ Includes Executive Summary, Condition Analysis, Hospital Performance, and Insigh
 
 ## 🔧 Tools & Skills
 - **Power BI:** Data modeling, DAX, multi‑page dashboards  
-- **Excel:** Data cleaning, transformation  
-- **SQL:** Analytical queries  
+- **Excel:** Data cleaning, transformation   
 - **Data Storytelling:** Insights, recommendations, performance analysis  
 
 ---
